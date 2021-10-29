@@ -1,0 +1,7 @@
+#DevOps with docker, ex 1.2 -Jaakko Iisala-
+
+#docker ps -a, after cleanup
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+#dcker images, after cleanup
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE

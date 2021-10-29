@@ -1,0 +1,6 @@
+# DevOps with Docker ex 1.1 -Jaakko Iisala-
+
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                     PORTS     NAMES
+13c3bdb22892   nginx     "/docker-entrypoint.…"   17 minutes ago   Exited (0) 8 minutes ago             dreamy_albattani
+a9fa83c0a688   nginx     "/docker-entrypoint.…"   17 minutes ago   Exited (0) 8 minutes ago             flamboyant_lamarr
+c50ef2a0f95a   nginx     "/docker-entrypoint.…"   18 minutes ago   Up 18 minutes              80/tcp    magical_bell
