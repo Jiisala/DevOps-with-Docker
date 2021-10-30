@@ -1,0 +1,9 @@
+# DevOps with Docker ex1_3 -Jaakko Iisala-
+
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+
+#commands used
+
+docker run -d -it devopsdockeruh/simple-web-service:ubuntu
+docker exec -it naughty_blackwell bash
+
