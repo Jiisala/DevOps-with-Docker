@@ -1,0 +1,9 @@
+#DevOps with Docker ex1.6 -Jaakko Iisala-
+
+secret message: "This is the secret message"
+pw: basics
+
+commands used:  docker run -it devopsdockeruh/pull_exercise
+-> then navigated to dockerhub with Firefox and found the password
+
+

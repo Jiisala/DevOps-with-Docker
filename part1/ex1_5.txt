@@ -1,0 +1,6 @@
+#DevOps with Docker ex 1.5 -Jaakko Iisala-
+
+Sizes:
+ ububtu: 83MB
+ alpine: 15.7MB
+Secret message works as intended

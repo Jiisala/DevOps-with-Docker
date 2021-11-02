@@ -1,0 +1,6 @@
+# DevOps with Docker ex1_4 -Jaakko Iisala-
+#Commands uset
+docker run -d -it --name ubu ubuntu
+docker exec -it ubu bash
+apt-get update; apt-get insall curl
+docker exec -it ubu sh -c 'echo "Input website"; read website; echo "Searching.."; sleep 1; curl http://$website;'

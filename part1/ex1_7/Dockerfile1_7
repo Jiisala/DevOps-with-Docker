@@ -1,0 +1,6 @@
+#Lets see If I can do this
+FROM devopsdockeruh/simple-web-service:alpine
+
+
+CMD server
+

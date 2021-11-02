@@ -1,0 +1,8 @@
+#DevOps with Docker ex 1.7 -Jaakko Iisala-
+
+See Dockerfile renamed Dockerfile1_7 in same dir
+
+Commands used:
+
+docker build . -t testi
+docker run testi

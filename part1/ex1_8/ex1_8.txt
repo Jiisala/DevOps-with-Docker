@@ -1,0 +1,7 @@
+#DevOps with Docker ex1.8 -Jaakko Iisala
+
+See Dockerimage renamed Dockerimage1_8 in the same dir
+
+Commands used:
+ docker build . -t curler
+ docker run  -it curler
