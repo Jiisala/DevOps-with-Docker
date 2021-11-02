@@ -1,0 +1,3 @@
+#DevOps with Docker ex 1.9 -Jaakko Iisala-
+
+command used :docker run -d -v "$(pwd)/text.log:/usr/src/app/text.log" devopsdockeruh/simple-web-service
