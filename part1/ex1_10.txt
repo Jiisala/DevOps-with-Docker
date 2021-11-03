@@ -1,0 +1,3 @@
+#DevOps with Docker ex1.10 -Jaakko Iisala-
+
+command used : docker run -d -p 8080:8080 devopsdockeruh/simple-web-service server
