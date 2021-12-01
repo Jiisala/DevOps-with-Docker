@@ -1,0 +1,8 @@
+#Devops with Docker ex1.13 -Jaakko Iisala
+
+See dockerimage renamed Dockerimage1_13 in the same dir
+
+command used to run:
+docker run -d -p 8080:8080 backend
+
+

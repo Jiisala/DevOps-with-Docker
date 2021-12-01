@@ -1,0 +1,9 @@
+#Devops with Docker ex1.14 -Jaakko Iisala
+
+See dockerimages renamed Dockerimage1_4_front and Dockerimage1_14_back in the same dir
+
+command used to run:
+docker run -d -p 8080:8080 backend
+docker run -d -p 5000:5000 frontend
+
+
